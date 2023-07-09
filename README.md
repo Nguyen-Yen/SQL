@@ -1,3 +1,2 @@
-# SQL
-Project: Parch & Pose      
+# SQL - Project: Parch & Pose  
 Description: 
